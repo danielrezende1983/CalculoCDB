@@ -15,7 +15,7 @@ namespace CalculoCDB.Service.Services
 
         public CertificadoDepositoBancario ResgatarAplicacao<TValidator>(Investimento investimento) where TValidator : AbstractValidator<Investimento>
         {
-            BaseService.Validate(investimento, Activator.CreateInstance<TValidator>());
+            Validate(investimento, Activator.CreateInstance<TValidator>());
             var cdb = _baseCalculoCdb.ResgatarAplicacao(investimento);
             return cdb;
         }
