@@ -1,0 +1,12 @@
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.Data\bin\Debug\net6.0\CalculoCDB.Infra.Data.deps.json
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.Data\bin\Debug\net6.0\CalculoCDB.Infra.Data.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.Data\bin\Debug\net6.0\CalculoCDB.Infra.Data.pdb
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.Data\obj\Debug\net6.0\CalculoCDB.Infra.Data.csproj.AssemblyReference.cache
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.Data\obj\Debug\net6.0\CalculoCDB.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.Data\obj\Debug\net6.0\CalculoCDB.Infra.Data.AssemblyInfoInputs.cache
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.Data\obj\Debug\net6.0\CalculoCDB.Infra.Data.AssemblyInfo.cs
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.Data\obj\Debug\net6.0\CalculoCDB.Infra.Data.csproj.CoreCompileInputs.cache
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.Data\obj\Debug\net6.0\CalculoCDB.Infra.Data.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.Data\obj\Debug\net6.0\refint\CalculoCDB.Infra.Data.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.Data\obj\Debug\net6.0\CalculoCDB.Infra.Data.pdb
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.Data\obj\Debug\net6.0\ref\CalculoCDB.Infra.Data.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculoCDB.Infra.Data/1.0.0": {
+        "runtime": {
+          "CalculoCDB.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculoCDB.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.CrossCutting\bin\Debug\net6.0\CalculoCDB.Infra.CrossCutting.deps.json
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.CrossCutting\bin\Debug\net6.0\CalculoCDB.Infra.CrossCutting.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.CrossCutting\bin\Debug\net6.0\CalculoCDB.Infra.CrossCutting.pdb
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.CrossCutting\obj\Debug\net6.0\CalculoCDB.Infra.CrossCutting.csproj.AssemblyReference.cache
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.CrossCutting\obj\Debug\net6.0\CalculoCDB.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.CrossCutting\obj\Debug\net6.0\CalculoCDB.Infra.CrossCutting.AssemblyInfoInputs.cache
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.CrossCutting\obj\Debug\net6.0\CalculoCDB.Infra.CrossCutting.AssemblyInfo.cs
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.CrossCutting\obj\Debug\net6.0\CalculoCDB.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.CrossCutting\obj\Debug\net6.0\CalculoCDB.Infra.CrossCutting.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.CrossCutting\obj\Debug\net6.0\refint\CalculoCDB.Infra.CrossCutting.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.CrossCutting\obj\Debug\net6.0\CalculoCDB.Infra.CrossCutting.pdb
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Infra.CrossCutting\obj\Debug\net6.0\ref\CalculoCDB.Infra.CrossCutting.dll

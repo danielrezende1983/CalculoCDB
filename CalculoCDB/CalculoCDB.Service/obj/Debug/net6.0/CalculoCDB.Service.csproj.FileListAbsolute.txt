@@ -1,0 +1,17 @@
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\bin\Debug\net6.0\CalculoCDB.Service.deps.json
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\bin\Debug\net6.0\CalculoCDB.Service.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\bin\Debug\net6.0\CalculoCDB.Service.pdb
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\bin\Debug\net6.0\CalculoCDB.Domain.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\bin\Debug\net6.0\CalculoCDB.Infra.CrossCutting.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\bin\Debug\net6.0\CalculoCDB.Domain.pdb
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\bin\Debug\net6.0\CalculoCDB.Infra.CrossCutting.pdb
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\obj\Debug\net6.0\CalculoCDB.Service.csproj.AssemblyReference.cache
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\obj\Debug\net6.0\CalculoCDB.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\obj\Debug\net6.0\CalculoCDB.Service.AssemblyInfoInputs.cache
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\obj\Debug\net6.0\CalculoCDB.Service.AssemblyInfo.cs
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\obj\Debug\net6.0\CalculoCDB.Service.csproj.CoreCompileInputs.cache
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\obj\Debug\net6.0\CalculoCDB.Service.csproj.CopyComplete
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\obj\Debug\net6.0\CalculoCDB.Service.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\obj\Debug\net6.0\refint\CalculoCDB.Service.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\obj\Debug\net6.0\CalculoCDB.Service.pdb
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Service\obj\Debug\net6.0\ref\CalculoCDB.Service.dll

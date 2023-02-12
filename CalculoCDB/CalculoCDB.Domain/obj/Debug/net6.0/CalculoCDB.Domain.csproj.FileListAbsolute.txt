@@ -1,0 +1,12 @@
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Domain\bin\Debug\net6.0\CalculoCDB.Domain.deps.json
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Domain\bin\Debug\net6.0\CalculoCDB.Domain.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Domain\bin\Debug\net6.0\CalculoCDB.Domain.pdb
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Domain\obj\Debug\net6.0\CalculoCDB.Domain.csproj.AssemblyReference.cache
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Domain\obj\Debug\net6.0\CalculoCDB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Domain\obj\Debug\net6.0\CalculoCDB.Domain.AssemblyInfoInputs.cache
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Domain\obj\Debug\net6.0\CalculoCDB.Domain.AssemblyInfo.cs
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Domain\obj\Debug\net6.0\CalculoCDB.Domain.csproj.CoreCompileInputs.cache
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Domain\obj\Debug\net6.0\CalculoCDB.Domain.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Domain\obj\Debug\net6.0\refint\CalculoCDB.Domain.dll
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Domain\obj\Debug\net6.0\CalculoCDB.Domain.pdb
+E:\PROVA\CalculoCDB\CalculoCDB\CalculoCDB.Domain\obj\Debug\net6.0\ref\CalculoCDB.Domain.dll

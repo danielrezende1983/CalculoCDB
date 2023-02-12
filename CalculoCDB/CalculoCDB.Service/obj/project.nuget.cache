@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IJaYZ8AnOkzry3uO7uAMnCPsMb9IdUXvSqt9H5czDyswMHbKP26Qvq1C13xC8qqbIb0mr6mdJ9RE7vpRgmPXlg==",
+  "success": true,
+  "projectFilePath": "E:\\PROVA\\CalculoCDB\\CalculoCDB\\CalculoCDB.Service\\CalculoCDB.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
