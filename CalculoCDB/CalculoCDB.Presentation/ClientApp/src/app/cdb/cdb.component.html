@@ -1,0 +1,25 @@
+<h1>CDB</h1>
+
+<p>Resgate da aplicação.</p>
+
+<input
+       type="text"
+       #boxValorInicial (keyup)="getValueValorInicial(boxValorInicial.value)"
+       placeholder="Valor Inicial"
+       name="valorinical"
+/>
+
+<p></p>
+
+<input type="text"
+       #boxPrazo (keyup)="getValuePrazo(boxPrazo.value)"
+       placeholder="Prazo em Meses"
+       name="prazo"
+/>
+
+<p></p>
+<button>Resgatar Aplicação</button>
+
+<p></p>
+<p>Valor Inicial:  {{displayValorInicial}}</p>
+<p>Prazo em Meses: {{displayPrazo}}</p>
