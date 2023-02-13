@@ -30,7 +30,8 @@ import { CdbComponent } from './cdb/cdb.component';
       { path: 'counter', component: CounterComponent },
       { path: 'fetch-data', component: FetchDataComponent },
       { path: 'cdb', component: CdbComponent },
-    ])
+    ]),
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

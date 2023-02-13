@@ -18,8 +18,14 @@
 />
 
 <p></p>
-<button>Resgatar Aplicação</button>
+<button
+  (click)="resgatarAplicacao()"
+  >Resgatar Aplicação
+</button>
 
 <p></p>
-<p>Valor Inicial:  {{displayValorInicial}}</p>
-<p>Prazo em Meses: {{displayPrazo}}</p>
+<p>{{displayValorInicial}}</p>
+<p>{{displayPrazo}}</p>
+<p>{{displayValorBruto}}</p>
+<p>{{displayValorLiquido}}</p>
+<p>{{displayErros}}</p>

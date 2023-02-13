@@ -4,6 +4,7 @@ using CalculoCDB.Service.Services;
 using CalculoCDB.Service.CalculoCDB;
 using Microsoft.AspNetCore.Mvc;
 using CalculoCDB.Service.Validators;
+using Microsoft.AspNetCore.Cors;
 
 namespace CalculoCDB.Application.Controllers
 {
@@ -18,6 +19,7 @@ namespace CalculoCDB.Application.Controllers
             _baseCdbService = new BaseService();
         }
 
+        [EnableCors("MyPolicy")]
         [HttpGet()]
         public IActionResult Get([FromQuery] Investimento investimento)
         {
