@@ -8,8 +8,6 @@ import { RouterModule } from '@angular/router';
 import { AppComponent } from './app.component';
 import { NavMenuComponent } from './nav-menu/nav-menu.component';
 import { HomeComponent } from './home/home.component';
-import { CounterComponent } from './counter/counter.component';
-import { FetchDataComponent } from './fetch-data/fetch-data.component';
 import { CdbComponent } from './cdb/cdb.component';
 
 import { NgxMaskModule } from 'ngx-mask';
@@ -19,8 +17,6 @@ import { NgxMaskModule } from 'ngx-mask';
     AppComponent,
     NavMenuComponent,
     HomeComponent,
-    CounterComponent,
-    FetchDataComponent,
     CdbComponent
   ],
   imports: [
@@ -33,8 +29,6 @@ import { NgxMaskModule } from 'ngx-mask';
     }),
     RouterModule.forRoot([
       { path: '', component: HomeComponent, pathMatch: 'full' },
-      { path: 'counter', component: CounterComponent },
-      { path: 'fetch-data', component: FetchDataComponent },
       { path: 'cdb', component: CdbComponent },
     ]),    
   ],
