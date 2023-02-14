@@ -24,6 +24,4 @@ describe('CdbComponent', () => {
     expect(component).toBeTruthy();
   });
 
-  
-
 });
