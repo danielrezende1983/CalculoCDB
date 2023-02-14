@@ -2,20 +2,30 @@
 
 <p>Resgate da aplicação.</p>
 
-<input
-       type="text"
-       #boxValorInicial (keyup)="getValueValorInicial(boxValorInicial.value)"
-       placeholder="Valor Inicial"
-       name="valorinical"
-/>
+<div>
+  <label>Valor Inicial:</label>
+  <h2></h2>
+  <input type="text"
+         name="valorinical"
+         maxlength="15"
+         prefix="R$ "
+         mask="0*.00"         
+         #boxValorInicial (keyup)="getValueValorInicial(boxValorInicial.value)"
+         placeholder="R$ 1.000,00"/>
+</div>
 
 <p></p>
 
-<input type="text"
-       #boxPrazo (keyup)="getValuePrazo(boxPrazo.value)"
-       placeholder="Prazo em Meses"
-       name="prazo"
-/>
+<div>
+  <label>Prazo em Meses:</label>
+  <h2></h2>
+  <input type="text"
+         maxlength="3"
+         mask="0*"
+         #boxPrazo (keyup)="getValuePrazo(boxPrazo.value)"
+         placeholder="120"
+         name="prazo" />
+</div>
 
 <p></p>
 <button
@@ -24,8 +34,6 @@
 </button>
 
 <p></p>
-<p>{{displayValorInicial}}</p>
-<p>{{displayPrazo}}</p>
 <p>{{displayValorBruto}}</p>
 <p>{{displayValorLiquido}}</p>
 <p>{{displayErros}}</p>

@@ -12,6 +12,8 @@ import { CounterComponent } from './counter/counter.component';
 import { FetchDataComponent } from './fetch-data/fetch-data.component';
 import { CdbComponent } from './cdb/cdb.component';
 
+import { NgxMaskModule } from 'ngx-mask';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -25,13 +27,16 @@ import { CdbComponent } from './cdb/cdb.component';
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
     HttpClientModule,
     FormsModule,
+    HttpClientModule,
+    NgxMaskModule.forRoot({
+      dropSpecialCharacters: true
+    }),
     RouterModule.forRoot([
       { path: '', component: HomeComponent, pathMatch: 'full' },
       { path: 'counter', component: CounterComponent },
       { path: 'fetch-data', component: FetchDataComponent },
       { path: 'cdb', component: CdbComponent },
-    ]),
-    HttpClientModule
+    ]),    
   ],
   providers: [],
   bootstrap: [AppComponent]

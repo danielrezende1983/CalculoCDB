@@ -19,14 +19,12 @@ export class CdbComponent implements OnInit {
 
   getValueValorInicial(val: string)
   {
-    console.warn(val)
-    this.valorInicial = Number(val);
+    this.valorInicial = Number(val.replace('R$ ', ''));
     this.displayValorInicial = `Valor Inicial: R$ ${this.valorInicial.toFixed(2)}`;
   } 
 
   displayPrazo = '';
   getValuePrazo(val: string) {
-    console.warn(val)
     this.meses = Number(val);
     if (val == '')
       this.displayPrazo = '';
