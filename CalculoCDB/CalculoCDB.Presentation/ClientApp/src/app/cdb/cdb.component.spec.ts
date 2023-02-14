@@ -1,14 +1,17 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
 import { CdbComponent } from './cdb.component';
+import { HttpClientTestingModule } from '@angular/common/http/testing';
 
 describe('CdbComponent', () => {
+
   let component: CdbComponent;
   let fixture: ComponentFixture<CdbComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ CdbComponent ]
+      declarations: [CdbComponent],
+      providers: [CdbComponent],
+      imports: [HttpClientTestingModule]
     })
     .compileComponents();
 
@@ -20,4 +23,7 @@ describe('CdbComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+
+  
+
 });
